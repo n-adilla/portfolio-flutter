@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:mysite/core/configs/configs.dart';
-import 'package:mysite/core/configs/connection/bloc/connected_bloc.dart';
-import 'package:mysite/core/configs/connection/network_check.dart';
-import 'package:mysite/core/providers/drawer_provider.dart';
-import 'package:mysite/core/providers/scroll_provider.dart';
-import 'package:mysite/core/theme/cubit/theme_cubit.dart';
+import 'package:adillasite/core/configs/configs.dart';
+import 'package:adillasite/core/configs/connection/bloc/connected_bloc.dart';
+import 'package:adillasite/core/configs/connection/network_check.dart';
+import 'package:adillasite/core/providers/drawer_provider.dart';
+import 'package:adillasite/core/providers/scroll_provider.dart';
+import 'package:adillasite/core/theme/cubit/theme_cubit.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sizer/sizer.dart';
 
-class MySite extends StatelessWidget {
-  const MySite({Key? key}) : super(key: key);
+class AdillaSite extends StatelessWidget {
+  const AdillaSite({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -1,4 +1,4 @@
-import 'package:mysite/changes/links.dart';
+import 'package:adillasite/changes/links.dart';
 
 class ContactUtils {
   final String url;

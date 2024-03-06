@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:mysite/core/configs/configs.dart';
+// import 'package:adillasite/core/configs/configs.dart';
 
 class AppText {
   // static TextStyle? btn;

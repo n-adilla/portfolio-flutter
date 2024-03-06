@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mysite/core/configs/configs.dart';
-import 'package:mysite/core/res/responsive.dart';
+import 'package:adillasite/core/configs/configs.dart';
+import 'package:adillasite/core/res/responsive.dart';
 
 class NavBarLogo extends StatelessWidget {
   const NavBarLogo({Key? key}) : super(key: key);
